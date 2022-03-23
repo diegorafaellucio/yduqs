@@ -16,7 +16,7 @@
 
     "tensorPath": "https://raw.githubusercontent.com/diegorafaellucio/yduqs/main/tensorboard.model_tensor.tsv",
 
-    "metadataPath": "https://raw.githubusercontent.com/diegorafaellucio/yduqs/main/tensorboard.model_tensor.tsv"
+    "metadataPath": "https://raw.githubusercontent.com/diegorafaellucio/yduqs/main/tensorboard.model_metadata.tsv"
 
     }
 
