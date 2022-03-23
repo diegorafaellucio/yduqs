@@ -14,9 +14,9 @@
 
     ],
 
-    "tensorPath": "https://s3nd.s3.amazonaws.com/tensorboard.model_tensor.tsv",
+    "tensorPath": "https://raw.githubusercontent.com/diegorafaellucio/yduqs/main/tensorboard.model_tensor.tsv",
 
-    "metadataPath": "https://s3nd.s3.amazonaws.com/tensorboard.model_metadata.tsv"
+    "metadataPath": "https://raw.githubusercontent.com/diegorafaellucio/yduqs/main/tensorboard.model_tensor.tsv"
 
     }
 
