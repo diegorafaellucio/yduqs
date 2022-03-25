@@ -14,9 +14,9 @@
 
     ],
 
-    "tensorPath": "https://raw.githubusercontent.com/diegorafaellucio/yduqs/main/tensorboard.model_tensor.tsv",
+    "tensorPath": "https://raw.githubusercontent.com/diegorafaellucio/yduqs/main/teste_visualizacao_3/_tensor.tsv",
 
-    "metadataPath": "https://raw.githubusercontent.com/diegorafaellucio/yduqs/main/tensorboard.model_metadata.tsv"
+    "metadataPath": "https://raw.githubusercontent.com/diegorafaellucio/yduqs/main/teste_visualizacao_3/_metadata.tsv"
 
     }
 
