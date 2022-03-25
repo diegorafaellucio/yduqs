@@ -1,0 +1,25 @@
+{
+
+    "embeddings": [
+
+    {
+
+    "tensorName": "Yduqs",
+
+    "tensorShape": [
+
+    21481,
+
+    300
+
+    ],
+
+    "tensorPath": "https://raw.githubusercontent.com/diegorafaellucio/yduqs/main/tensorboard.model_tensor.tsv",
+
+    "metadataPath": "https://raw.githubusercontent.com/diegorafaellucio/yduqs/main/tensorboard.model_metadata.tsv"
+
+    }
+
+    ]
+
+}
